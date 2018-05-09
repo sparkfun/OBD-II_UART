@@ -1,4 +1,4 @@
-OBD-II_UART
+OBD-II UART
 ===========
 
 [![OBD-II UART](https://dlnmh9ip6v2uc.cloudfront.net/images/products/9/5/5/5/09555-01.jpg)  
@@ -12,10 +12,14 @@ Repository Contents
 * **/Hardware** - All Eagle design files (.brd, .sch)
 * **/Software** - Information about desktop program to use with this board. 
 
+Documentation
+--------------
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/obd-ii-uart-hookup-guide)** - Basic hookup guide for the OBD-II UART.
+
 Product Versions
 ----------------
 * [WIG-09555](https://www.sparkfun.com/products/9555)- OBD-II UART board
-* [RTL-10769] (https://www.sparkfun.com/products/10769)- Car Diagnostics Kit Retail, with OBD-II UART and OBD to DB9 cable.
+* _[RTL-10769 (RETIRED)](https://www.sparkfun.com/products/10769)- Car Diagnostics Kit Retail, with OBD-II UART and OBD to DB9 cable._
 
 
 License Information
