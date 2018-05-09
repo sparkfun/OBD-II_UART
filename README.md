@@ -18,8 +18,8 @@ Documentation
 
 Product Versions
 ----------------
-* [WIG-09555](https://www.sparkfun.com/products/9555)- OBD-II UART board
-* _[RTL-10769 (RETIRED)](https://www.sparkfun.com/products/10769)- Car Diagnostics Kit Retail, with OBD-II UART and OBD to DB9 cable._
+* [WIG-09555](https://www.sparkfun.com/products/9555) - OBD-II UART board
+* _[RTL-10769 (RETIRED)](https://www.sparkfun.com/products/10769) - Car Diagnostics Kit Retail, with OBD-II UART and OBD to DB9 cable._
 
 
 License Information
