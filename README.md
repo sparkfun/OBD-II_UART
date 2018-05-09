@@ -7,8 +7,8 @@ OBD-II UART
    <td><a href="https://cdn.sparkfun.com//assets/parts/5/7/1/5/10769-01.jpg"><img src="https://cdn.sparkfun.com//assets/parts/5/7/1/5/10769-01.jpg" title="SparkFun Car Diagnostics Kit (RTL-10769)"></a></td>
   </tr>
   <tr align="center">
-    <td>[<a href="https://www.sparkfun.com/products/9555">OBD-II UART (WIG-09555)</a>]</td>
-    <td>[<a href="https://www.sparkfun.com/products/10769">SparkFun Car Diagnostics Kit (RTL-10769)</a>]</td>
+    <td><a href="https://www.sparkfun.com/products/9555">OBD-II UART (WIG-09555)</a></td>
+    <td><a href="https://www.sparkfun.com/products/10769">SparkFun Car Diagnostics Kit (RTL-10769)</a></td>
   </tr>
 </table>
 
