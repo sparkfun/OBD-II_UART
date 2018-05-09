@@ -3,7 +3,7 @@ OBD-II UART
 
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td><a href="https://dlnmh9ip6v2uc.cloudfront.net/images/products/9/5/5/5/09555-01.jpg"><img src="https://dlnmh9ip6v2uc.cloudfront.net/images/products/9/5/5/5/09555-01.jpg" title="OBD-II UART"></a></td>
+   <td><a href="https://cdn.sparkfun.com//assets/parts/3/3/1/4/09555-01a.jpg"><img src="https://cdn.sparkfun.com//assets/parts/3/3/1/4/09555-01a.jpg" title="OBD-II UART"></a></td>
    <td><a href="https://cdn.sparkfun.com//assets/parts/5/7/1/5/10769-01.jpg"><img src="https://cdn.sparkfun.com//assets/parts/5/7/1/5/10769-01.jpg" title="SparkFun Car Diagnostics Kit (RTL-10769)"></a></td>
   </tr>
   <tr align="center">
