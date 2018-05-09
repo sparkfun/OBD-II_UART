@@ -1,8 +1,16 @@
 OBD-II UART
 ===========
 
-[![OBD-II UART](https://dlnmh9ip6v2uc.cloudfront.net/images/products/9/5/5/5/09555-01.jpg)  
-*OBD-II UART(WIG-09555)*](https://www.sparkfun.com/products/9555)
+<table class="table table-hover table-striped table-bordered">
+  <tr align="center">
+   <td><a href="https://dlnmh9ip6v2uc.cloudfront.net/images/products/9/5/5/5/09555-01.jpg"><img src="https://dlnmh9ip6v2uc.cloudfront.net/images/products/9/5/5/5/09555-01.jpg" title="OBD-II UART"></a></td>
+   <td><a href="https://cdn.sparkfun.com//assets/parts/5/7/1/5/10769-01.jpg"><img src="https://cdn.sparkfun.com//assets/parts/5/7/1/5/10769-01.jpg" title="SparkFun Car Diagnostics Kit (RTL-10769)"></a></td>
+  </tr>
+  <tr align="center">
+    <td>[<a href="https://www.sparkfun.com/products/9555">OBD-II UART (WIG-09555)</a>]</td>
+    <td>[<a href="https://www.sparkfun.com/products/10769">SparkFun Car Diagnostics Kit (RTL-10769)</a>]</td>
+  </tr>
+</table>
 
 A board that provides a serial interface using the ELM327 command set with a vehicle's OBD-II bus, and supports all major OBD-II standards. 
 
@@ -20,7 +28,6 @@ Product Versions
 ----------------
 * [WIG-09555](https://www.sparkfun.com/products/9555) - OBD-II UART board
 * [RTL-10769](https://www.sparkfun.com/products/10769) - Car Diagnostics Kit Retail, with OBD-II UART and OBD to DB9 cable.
-
 
 License Information
 -------------------
